@@ -1,6 +1,6 @@
 {
   "name": "vue-v3-identitypass",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Verification checkout page powerd by Vherifai",
 
   "main": "dist/vue-identitypass.ssr.js",
